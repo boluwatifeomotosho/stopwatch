@@ -63,6 +63,6 @@ const start = function () {
     secID.innerHTML = secStr;
     milSecID.innerHTML = milSecStr;
 
-    setTimeout(start, 5);
+    setTimeout(start, 10);
   }
 };
